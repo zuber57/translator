@@ -1,3 +1,5 @@
+![image](https://github.com/zuber57/translator/assets/81094390/37fe1181-b2e5-46e6-84a3-9dcfe7775146)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
